@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on school, wit personal projects are brewing on the side!<br>🌱 I’m currently learning databases and machine learning<br>💬 Ask me about anything about sports to computer science<br>⚡ Wide variety of hobbies which may or may not include coding
+🔭 I’m currently working on school, with personal projects are brewing on the side!<br>🌱 I’m currently learning databases and machine learning<br>💬 Ask me about anything about sports to computer science<br>⚡ Wide variety of hobbies which may or may not include coding
 
 
 # 💻 Tech Stack:
