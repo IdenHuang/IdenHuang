@@ -10,7 +10,6 @@ I'm a Computer Science student at the **University of British Columbia** with a 
 * 💼 **Previously:** Modernized enterprise .NET microservices and migrated healthcare data at **Optum (UnitedHealth Group)**, and developed flight control firmware and web platforms for **UBC Rocket**.
 * 💻 **My Stack:** Python, TypeScript, C#, C++, React, Node.js, Docker, Kubernetes, AWS, and GCP.
 
-* 
 ## Experience
 
 ### **Software Engineer Co-op** | UBC Cloud Innovation Centre
