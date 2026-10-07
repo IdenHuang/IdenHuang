@@ -6,7 +6,7 @@
 
 I'm a Computer Science student at the **University of British Columbia** with a passion for full-stack development and cloud infrastructure. 
 
-* 🔭 **Currently:** Building secure AWS architectures as a Software Engineer Co-op at the **UBC Cloud Innovation Centre**.
+* 🔭 **Currently:** Building secure AWS architecture as a Software Engineer Co-op at the **UBC Cloud Innovation Centre**.
 * 💼 **Previously:** Modernized enterprise .NET microservices and migrated healthcare data at **Optum (UnitedHealth Group)**, and developed flight control firmware and web platforms for **UBC Rocket**.
 * 💻 **My Stack:** Python, TypeScript, C#, C++, React, Node.js, Docker, Kubernetes, AWS, and GCP.
 
