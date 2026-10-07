@@ -17,17 +17,13 @@ I'm a Computer Science student at the **University of British Columbia** with a 
 
 * Resolved security vulnerabilities in AWS architecture and implemented custom guardrails for Amazon Bedrock, mitigating prompt injection risks and enforcing responsible AI policies for generative AI deployments
 
----
-
 ### **Software Development Engineer Co-op** | Optum – UnitedHealth Group
 *Jan 2026 – Aug 2026 | Richmond, BC*
 
 * Collaborated with cross-functional development teams to securely migrate sensitive patient health information across enterprise level databases, ensuring high availability, zero data loss, and seamless integration with Google Cloud Spanner
 * Refactored a suite of .NET microservices to seamlessly migrate data-fetching logic to Google Cloud Spanner ensuring high scalability and modernizing the systems architecture
 * Authored and maintained YAML manifests to orchestrate and deploy containerized .NET microservices on Kubernetes, ensuring accurate and consistent environment configurations
-* Executed comprehensive manual testing across updated microservices to ensure the accurate processing and routing of healthcare data in strict adherence to medical imaging standards
-
----
+* Executed comprehensive manual testing across updated microservices to ensure the accurate processing and routing of healthcare data in strict adherence to medical imaging standard
 
 ### **Software Engineer** | UBC Rocket
 *Sept 2025 – April 2026 | Vancouver, BC*
