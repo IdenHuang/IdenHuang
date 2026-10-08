@@ -1,8 +1,6 @@
-## Hi there 👋
+### Hi there, I'm Iden 👋
 
 # 💫 About Me
-
-### Hi there, I'm Iden 👋
 
 I'm a Computer Science student at the **University of British Columbia** with a passion for full-stack development and cloud infrastructure. 
 
